@@ -185,7 +185,20 @@ var b = 9;
 console.log(b > a);
 */
 
+/*
+//STEP 23
+var widget = new Object();
+console.log(typeof widget);
+*/
 
+/*
+//STEP 24
+var widget = new Object();
+console.log(widget instanceof Object);
+*/
 
-
-
+/*
+//STEP 25
+var widget = new Object();
+console.log(widget instanceof Array);
+*/
